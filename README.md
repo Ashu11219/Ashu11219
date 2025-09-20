@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍁 Currently working on upskilling myself<br>🎓 Studying in VIT, Vellore<br>🤝 Looking to collaborate on Python related projects<br>🌱 Currently Trying to dive more into the world of DSA and projects<br><br>📧 Email me at : ashish.am0731@gmail.com
+🍁 Currently working on upskilling myself<br>🤝 Looking to collaborate on Python related projects<br>🌱 Currently Trying to dive more into the world of DSA and projects<br><br>📧 Email me at : ashish.am0731@gmail.com
 
  
 ## 🌐 Socials:
