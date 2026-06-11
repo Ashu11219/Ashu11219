@@ -1,10 +1,9 @@
-# 💫 About Me:
+# About Me:
 🍁 Currently working on upskilling myself<br>🤝 Looking to collaborate on Python related projects<br>🌱 Currently Trying to dive more into the world of DSA and projects<br><br>📧 Email me at : ashish.am0731@gmail.com
 
  
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-mishra-7aa5a831b/)
-[![Twitter](https://img.shields.io/badge/x.com-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Aashu_112)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ashish-mishra-7aa5a831b/](https://www.linkedin.com/in/ashish-mishra-ghost/))
 
 
 # 💻 Tech Stack:
