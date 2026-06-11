@@ -1,65 +1,52 @@
-# About Me:
-🍁 Currently working on upskilling myself<br>🤝 Looking to collaborate on Python related projects<br>🌱 Currently Trying to dive more into the world of DSA and projects<br><br>📧 Email me at : ashish.am0731@gmail.com
-
- 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ashish-mishra-7aa5a831b/](https://www.linkedin.com/in/ashish-mishra-ghost/))
+<div align="center">
 
 
-# 💻 Tech Stack:
+<!-- Typing tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+Ashu;Backend+Engineer+in+the+making;ML%2C+as+breadth;Always+building" alt="Typing SVG" />
 
-## Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="./icons/Python-Dark.svg" width="48">
-    <img src="./icons/Java-Dark.svg" width="48">
-  </a>
-</p>
- 
- 
-## Frameworks & Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="./icons/Notion-Dark.svg" width="48">
-  </a>
-</p>
+</div>
 
+## ⚡ About
 
-## Backend Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="./icons/MySQL-Dark.svg" width="48">
-  </a>
-</p>
+```yaml
+focus:        backend & deployment
+exploring:    machine learning, deep learning
+learning:     always — currently the web, end to end
+philosophy:   build real things, defend every line
+```
 
+## 🛠️ Tech Stack
 
-## Version Control System
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="./icons/Git.svg" width="48">
-    <img src="./icons/Github-Dark.svg" width="48">
-  </a>
-</p>
+<div align="center">
 
-## Editing Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="./icons/AfterEffects.svg" width="48">
-    <img src="./icons/Premiere.svg" width="48">
-    <img src="./icons/Photoshop.svg" width="48">
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&perline=4" />
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,fastapi,tensorflow&perline=7" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github&perline=2" />
 
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashu11219&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashu11219&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu11219&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashu11219&show_icons=true&hide_border=true&bg_color=0F172A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&ring_color=34D399" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu11219&layout=compact&hide_border=true&bg_color=0F172A&title_color=34D399&text_color=E2E8F0" width="40%" />
+
+</div>
+
+## 📫 Reach Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=34D399)](https://www.linkedin.com/in/ashish-mishra-ghost/)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=34D399)](mailto:ashish.am0731@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashu11219&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<sub>Also fluent in Photoshop, Premiere Pro & After Effects — design isn't just for designers.</sub>
+</div>
