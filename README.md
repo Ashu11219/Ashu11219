@@ -27,15 +27,6 @@ philosophy:   build real things, defend every line
 
 </div>
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashu11219&show_icons=true&hide_border=true&bg_color=0F172A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&ring_color=34D399" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu11219&layout=compact&hide_border=true&bg_color=0F172A&title_color=34D399&text_color=E2E8F0" width="40%" />
-
-</div>
-
 ## 📫 Reach Me
 
 <div align="center">
