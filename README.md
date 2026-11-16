@@ -39,5 +39,5 @@ philosophy:   build real things, defend every line
 ---
 
 <div align="center">
-<sub>Also fluent in Photoshop, Premiere Pro & After Effects — design isn't just for designers.</sub>
+<sub>Also fluent in Photoshop, Premiere Pro & After Effects - design isn't just for designers.</sub>
 </div>
